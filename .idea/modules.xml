@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/appusagesexample/appusagesexample.iml" filepath="$PROJECT_DIR$/appusagesexample/appusagesexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/libsfastview/libsfastview.iml" filepath="$PROJECT_DIR$/libsfastview/libsfastview.iml" />
       <module fileurl="file://$PROJECT_DIR$/libssnapgif/libssnapgif.iml" filepath="$PROJECT_DIR$/libssnapgif/libssnapgif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libstestone/libstestone.iml" filepath="$PROJECT_DIR$/libstestone/libstestone.iml" />
     </modules>
   </component>
 </project>
