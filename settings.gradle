@@ -1,1 +1,1 @@
-include ':appusagesexample', ':libsfastview'
+include ':appusagesexample', ':libsfastview', ':libssnapgif'

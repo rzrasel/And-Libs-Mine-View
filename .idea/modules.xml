@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/And-Libs-Mine-View.iml" filepath="$PROJECT_DIR$/And-Libs-Mine-View.iml" />
       <module fileurl="file://$PROJECT_DIR$/appusagesexample/appusagesexample.iml" filepath="$PROJECT_DIR$/appusagesexample/appusagesexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/libsfastview/libsfastview.iml" filepath="$PROJECT_DIR$/libsfastview/libsfastview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libssnapgif/libssnapgif.iml" filepath="$PROJECT_DIR$/libssnapgif/libssnapgif.iml" />
     </modules>
   </component>
 </project>
